@@ -1,0 +1,17 @@
+*secrets.json
+*secrets.do
+*client_secret.json
+*.pyc
+*.csv
+*.zip
+*.gz
+*.txt
+.DS_Store
+users
+*.sublime-project
+*.sublime-workspace
+*.xlsx
+*.png
+*.dta
+*.log
+ga_config.json
